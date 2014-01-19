@@ -9,18 +9,18 @@ Version 2.0 ALPHA
 Mods:
 =============================
 
-- GoKart Car
-- Formel 1 Car
-- Civy Car Pack
-- MIS Buildings
-- Catacomb Buildings
+- GoKart (Car)
+- Formel 1 (Car)
+- Civy (Car Pack)
+- MIS (Buildings)
+- Catacomb (Buildings)
 - MBG Buildings (Killhouse, Buildings3, African)
-- Jeep Car
-- AS EU Editor Update
-- Harley Motorbike
-- OIA Buildings
-- Taviana Stadium Buildings
-- Mitsubishi Lancer Car Pack
+- Jeep (Car)
+- AS EU (Editor Update)
+- Harley (Motorbike)
+- OIA (Buildings)
+- Taviana (Stadium Buildings)
+- Mitsubishi Lancer (Car Pack)
 - FGS Hills 3 (Oilplatform)
 
 
@@ -42,6 +42,7 @@ Finish start the Mod whit DayZ Commander and have Fun!
 Developer´s:
 =============================
 Feindflug (Map creator, Formel 1 Rally, ATV Rally and more)
+
 MisterNow (PvP Arena)
 
 
@@ -50,8 +51,13 @@ MisterNow (PvP Arena)
 Beta Tester:
 =============================
 Feindflug
+
 MisterNow
+
 Rennard
+
 Lars
+
 Bennet
+
 ....
