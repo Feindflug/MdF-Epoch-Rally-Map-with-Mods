@@ -42,16 +42,16 @@ Finish start the Mod whit DayZ Commander and have Fun!
 
 Developer´s:
 =============================
-Feindflug (Map creator, Formel 1 Rally, ATV Rally and more) 
-MisterNow (PvP Arena)
+Feindflug (Map creator, Formel 1 Rally, ATV Rally and more)	
+MisterNow (PvP Arena)	
 
 
 
 Beta Tester:
 =============================
-Feindflug 
-MisterNow 
-Rennard 
-Lars 
-Bennet 
-.... 
+Feindflug	
+MisterNow	
+Rennard	
+Lars	
+Bennet	
+....	
