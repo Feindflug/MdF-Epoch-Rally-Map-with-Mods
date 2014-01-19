@@ -1,7 +1,8 @@
 MdF Epoch Rally Map whit Mods
 =============================
 
-MdF Epoch Rally Map whit Mods
+MdF Epoch Rally Map whit very mutch Mods (Addons) 
+This Map run whit Newest Epoch mod 
 
 Version 2.0 ALPHA
 
@@ -41,23 +42,16 @@ Finish start the Mod whit DayZ Commander and have Fun!
 
 Developer´s:
 =============================
-Feindflug (Map creator, Formel 1 Rally, ATV Rally and more)
-
+Feindflug (Map creator, Formel 1 Rally, ATV Rally and more) 
 MisterNow (PvP Arena)
-
 
 
 
 Beta Tester:
 =============================
-Feindflug
-
-MisterNow
-
-Rennard
-
-Lars
-
-Bennet
-
-....
+Feindflug 
+MisterNow 
+Rennard 
+Lars 
+Bennet 
+.... 
