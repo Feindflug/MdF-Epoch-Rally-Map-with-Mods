@@ -51,7 +51,7 @@ Beta Tester:
 =============================
 Feindflug	
 MisterNow	
-Rennard	
+Rennard		
 Lars	
 Bennet	
 ....	
