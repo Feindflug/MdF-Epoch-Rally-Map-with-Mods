@@ -2,6 +2,7 @@ MdF_Epoch_Rally_Map_whit_Mods
 =============================
 
 MdF Epoch Rally Map whit Mods
+Version 2.0
 
 
 Mods:
