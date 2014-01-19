@@ -9,8 +9,8 @@ Version 2.0 ALPHA
 
 What its on Server Finish?:
 =============================
-19.01.2014
-############
+19.01.2014:		
+
 GoKart Rally			
 Spawn Point		
 Formel 1 Rally´s		
