@@ -1,13 +1,13 @@
-MdF Epoch Rally Map whit Mods
+MdF Epoch Rally Map whit Addon´s
 =============================
 
-MdF Epoch Rally Map whit very mutch Mods (Addons)	
+MdF Epoch Rally Map whit very mutch Addon´s	
 This Map run whit Newest Epoch mod 		
 
 Version 2.0 ALPHA
 
 
-Mods:
+Addon´s:
 =============================
 
 - GoKart (Car)
@@ -30,7 +30,7 @@ Mods:
 Installation:
 =============================
 
-1. Download the Map Pack (Right side "Download Zip")
+1. Download the Map/Addon´s Pack (Right side "Download Zip")
 2. Extract the .zip Pack
 3. Copy the Extract Pack "@MdF_Rally" (Steam: C:\Program Files (x86)\Steam\SteamApps\common\Arma 2 Operation Arrowhead)
 4. The folder name must "@MdF_Rally" and in the Folder: addons, mod.cpp, mod.paa
