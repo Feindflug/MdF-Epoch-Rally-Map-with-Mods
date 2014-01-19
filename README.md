@@ -1,8 +1,8 @@
 MdF Epoch Rally Map whit Mods
 =============================
 
-MdF Epoch Rally Map whit very mutch Mods (Addons) 
-This Map run whit Newest Epoch mod 
+MdF Epoch Rally Map whit very mutch Mods (Addons)	
+This Map run whit Newest Epoch mod 		
 
 Version 2.0 ALPHA
 
