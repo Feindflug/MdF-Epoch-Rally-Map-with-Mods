@@ -7,8 +7,13 @@ This Map run whit Newest Epoch mod
 Version 2.0 ALPHA
 
 
-What its on Server Finish?:
+Update´s: (Finish on Server)
 =============================
+
+20.01.2014:		
+1 PvP Zone
+Fixed 2 Wheel Rally		
+
 19.01.2014:		
 
 GoKart Rally			
@@ -16,10 +21,6 @@ Spawn Point
 Formel 1 Rally´s		
 2 Wheel Rally		
 Car Scooter / Arena		
-
-20.01.2014:		
-Fixed 2 Wheel Rally		
-
 
 
 Addon´s:
@@ -40,8 +41,6 @@ Addon´s:
 - FGS Hills 3 (Oilplatform)
 
 
-
-
 Installation:
 =============================
 
@@ -59,7 +58,6 @@ Developer´s:
 =============================
 Feindflug (Map creator, Formel 1 Rally, ATV Rally and more)		
 MisterNow (PvP Arena)	
-
 
 
 Beta Tester:
