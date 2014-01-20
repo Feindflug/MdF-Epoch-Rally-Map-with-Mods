@@ -15,7 +15,6 @@ Update´s: (Finish on Server)
 Fixed 2 Wheel Rally		
 
 19.01.2014:		
-
 GoKart Rally			
 Spawn Point		
 Formel 1 Rally´s		
@@ -26,6 +25,12 @@ Car Scooter / Arena
 Addon´s:
 =============================
 
+20.01.2014:		
+- Hunter (Car)
+- Berlin Wall (Buildings)
+- Pook Water (Water Mines)
+
+19.01.2014:		
 - GoKart (Car)
 - Formel 1 (Car)
 - Civy (Car Pack)
