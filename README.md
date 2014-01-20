@@ -11,7 +11,7 @@ Update´s: (Finish on Server)
 =============================
 
 20.01.2014:		
-1 PvP Zone
+1 PvP Zone		
 Fixed 2 Wheel Rally		
 
 19.01.2014:		
