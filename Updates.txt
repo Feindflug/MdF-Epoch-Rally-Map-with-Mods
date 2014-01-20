@@ -1,0 +1,41 @@
+Map Version 2.0 ALPHA
+=============================
+
+
+Update´s: (Finish on Server)
+=============================
+
+20.01.2014:		
+1 PvP Zone		
+Fixed 2 Wheel Rally		
+
+19.01.2014:		
+GoKart Rally			
+Spawn Point		
+Formel 1 Rally´s		
+2 Wheel Rally		
+Car Scooter / Arena		
+
+
+Addon´s:
+=============================
+
+20.01.2014:		
+- Hunter (Car)
+- Berlin Wall (Buildings)
+- Pook Water (Water Mines)
+
+19.01.2014:		
+- GoKart (Car)
+- Formel 1 (Car)
+- Civy (Car Pack)
+- MIS (Buildings)
+- Catacomb (Buildings)
+- MBG Buildings (Killhouse, Buildings3, African)
+- Jeep (Car)
+- AS EU (Editor Update)
+- Harley (Motorbike)
+- OIA (Buildings)
+- Taviana (Stadium Buildings)
+- Mitsubishi Lancer (Car Pack)
+- FGS Hills 3 (Oilplatform)

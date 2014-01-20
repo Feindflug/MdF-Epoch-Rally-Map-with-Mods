@@ -7,30 +7,23 @@ This Map run whit Newest Epoch mod
 Version 2.0 ALPHA
 
 
-Update´s: (Finish on Server)
-=============================
 
-20.01.2014:		
-1 PvP Zone		
-Fixed 2 Wheel Rally		
-
-19.01.2014:		
-GoKart Rally			
-Spawn Point		
-Formel 1 Rally´s		
-2 Wheel Rally		
-Car Scooter / Arena		
+Finish on Server:
+=============================	
+- 1 PvP Zone
+- Fixed 2 Wheel Rally	
+- GoKart Rally	
+- Spawn Point		
+- Formel 1 Rally´s		
+- 2 Wheel Rally´s	
+- Car Scooter / Arena		
 
 
 Addon´s:
 =============================
-
-20.01.2014:		
 - Hunter (Car)
 - Berlin Wall (Buildings)
-- Pook Water (Water Mines)
-
-19.01.2014:		
+- Pook Water (Water Mines)	
 - GoKart (Car)
 - Formel 1 (Car)
 - Civy (Car Pack)
@@ -48,7 +41,6 @@ Addon´s:
 
 Installation:
 =============================
-
 1. Download the Map/Addon´s Pack (Right side "Download Zip")
 2. Extract the .zip Pack
 3. Copy the Extract Pack "@MdF_Rally" to (Steam: C:\Program Files (x86)\Steam\SteamApps\common\Arma 2 Operation Arrowhead)
