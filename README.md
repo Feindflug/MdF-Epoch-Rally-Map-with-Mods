@@ -14,7 +14,6 @@ Version 2.0 ALPHA
 Finish on Server:
 =============================	
 - 1 PvP Zone
-- Fixed 2 Wheel Rally	
 - GoKart Rally	
 - Spawn Point		
 - Formel 1 Rally´s		
