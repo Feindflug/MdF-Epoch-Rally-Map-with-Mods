@@ -3,7 +3,7 @@ MdF Epoch Rally Map whit Addon´s
 
 MdF Epoch Rally Map whit very mutch Addon´s	
 This Map run whit Newest Epoch mod 		
-Its all Finish on Server and we have all Test, all Buildings come in the Map! (in moment its all the Building only in the Mission File)		
+Its all Finish on Server and we have all Test, all Buildings come in the Map! (in moment its all the Building only in the Mission File from Server)		
 
 Version 2.0 ALPHA
 
