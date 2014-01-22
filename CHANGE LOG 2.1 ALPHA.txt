@@ -1,6 +1,4 @@
 Map Version 2.1 ALPHA
 =============================
-- More Streets
-- More Arenas (in Updates.txt more info after Update)
-- More Markers
-- Terrain Fixed
+- Autoscooter Fixed in Map
+- Terrain Bugfixed
