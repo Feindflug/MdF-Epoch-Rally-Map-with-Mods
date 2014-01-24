@@ -1,4 +1,0 @@
-Map Version 2.1 ALPHA
-=============================
-- Autoscooter Fixed in Map
-- Terrain Bugfixed
