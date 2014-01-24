@@ -1,31 +1,50 @@
+Map Version 2.1 ALPHA
+=============================
+24.01.2014
+
+Update큦: (Finish on Map)
+=============================
+- Autoscooter / Arena
+- Spawn Point
+- Delete Tomb Addon
+- Terrain Other Color
+
+
+
 Map Version 2.0 ALPHA
 =============================
-
+20.01.2014
 
 Update큦: (Finish on Server)
 =============================
-
-20.01.2014:		
-1 PvP Zone		
-Fixed 2 Wheel Rally		
-
-19.01.2014:		
-GoKart Rally			
-Spawn Point		
-Formel 1 Rally큦		
-2 Wheel Rally		
-Car Scooter / Arena		
+- 1 PvP Zone		
+- Fixed 2 Wheel Rally		
 
 
 Addon큦:
-=============================
-
-20.01.2014:		
+=============================		
 - Hunter (Car)
 - Berlin Wall (Buildings)
 - Pook Water (Water Mines)
 
-19.01.2014:		
+
+
+
+Map Version 2.0 ALPHA
+=============================
+19.01.2014
+
+Update큦: (Finish on Server)
+=============================			
+- GoKart Rally			
+- Spawn Point		
+- Formel 1 Rally큦		
+- 2 Wheel Rally		
+- Car Scooter / Arena		
+
+
+Addon큦:
+=============================	
 - GoKart (Car)
 - Formel 1 (Car)
 - Civy (Car Pack)
