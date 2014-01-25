@@ -1,11 +1,12 @@
 MdF Epoch Rally Map whit Addon´s
 =============================
 
-MdF Epoch Rally Map whit very mutch Addon´s		
-No Loot, No Zombies and no Epoch Buildings its Enable! (Its only PvP, PvE, AI)		
+MdF Epoch Rally Map with many addons!
+MdF Epoch Rally Map with tons of awesome addons and new features
+Zombies, Loot, Zombies and Epoch Basebuilding is disabled. (PvP, PvE, AI only)
 
-This Map run whit Newest Epoch mod 		
-Its all Finish on Server and we have all Test, all Buildings come in the Map! (in moment its all the Building only in the Mission File from Server)		
+This Map runs with the newest version of the Epoch mod
+At the moment most of the buildings are in the mission file of the server but in the next versions they will be implemented directly on the map
 
 Version 2.2 ALPHA
 
