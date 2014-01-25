@@ -7,7 +7,7 @@ No Loot, No Zombies and no Epoch Buildings its Enable! (Its only PvP, PvE, AI)
 This Map run whit Newest Epoch mod 		
 Its all Finish on Server and we have all Test, all Buildings come in the Map! (in moment its all the Building only in the Mission File from Server)		
 
-Version 2.1 ALPHA
+Version 2.2 ALPHA
 
 
 
@@ -15,6 +15,8 @@ Finish on Map:
 =============================	
 - Spawn Point		
 - Car Scooter / Arena		
+- GoKart Rally 		
+- Formel 1 Rally´s		
 
 
 Addon´s:

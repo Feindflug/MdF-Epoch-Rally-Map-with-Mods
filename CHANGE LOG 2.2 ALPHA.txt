@@ -1,6 +1,0 @@
-Map Version 2.2 ALPHA
-=============================
-
-- Formel 1 Rally´s
-- Gokart Rally
-- Terrain Edit

@@ -1,3 +1,18 @@
+Map Version 2.2 ALPHA
+=============================
+25.01.2014
+
+Update´s: (Finish on Map)
+=============================
+- GoKart Rally
+- Formel 1 Rally´s
+
+Bugfix:
+=============================
+- Terrain Edit
+
+
+
 Map Version 2.1 ALPHA
 =============================
 24.01.2014
@@ -6,6 +21,9 @@ Update´s: (Finish on Map)
 =============================
 - Autoscooter / Arena
 - Spawn Point
+
+Bugfix:
+=============================
 - Delete Tomb Addon
 - Terrain Other Color
 
