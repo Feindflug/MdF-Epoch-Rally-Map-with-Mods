@@ -8,7 +8,7 @@ Zombies, Loot, Zombies and Epoch Basebuilding is disabled. (PvP, PvE, AI only)
 This Map runs with the newest version of the Epoch mod
 At the moment most of the buildings are in the mission file of the server but in the next versions they will be implemented directly on the map
 
-Version 2.2 ALPHA
+Version 2.2.1 ALPHA
 
 
 
@@ -22,6 +22,7 @@ Finish on Map:
 
 Addon´s:
 =============================
+- AGS (Building´s) http://www.armaholic.com/page.php?id=10798			
 - Hunter 4x4 (Car) http://www.arma2base.de/include.php?path=download&contentid=1386
 - Berlin Wall (Buildings) http://www.arma2base.de/include.php?path=download&contentid=2755
 - Pook Water (Water Mines) http://www.arma2base.de/include.php?path=download&contentid=4611
