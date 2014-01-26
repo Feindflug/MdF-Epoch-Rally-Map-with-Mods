@@ -10,14 +10,7 @@ At the moment most of the buildings are in the mission file of the server but in
 
 Version 2.2.1 ALPHA
 
-
-
-Finish on Map:
-=============================	
-- Spawn Point		
-- Car Scooter / Arena		
-- GoKart Rally 		
-- Formel 1 Rally´s		
+Next Updates Here: http://rally.feindfluglp.de			
 
 
 Addon´s:
@@ -38,18 +31,6 @@ Addon´s:
 - Taviana (Stadium Buildings) http://www.armaholic.com/page.php?id=7746
 - Mitsubishi Lancer (Car Pack) http://www.arma2base.de/include.php?path=download&contentid=1272
 - FGS Hills 3 (Oilplatform) http://www.arma2base.de/include.php?path=download&contentid=4840
-
-
-Installation:
-=============================
-1. Download the Map/Addon´s Pack (Right side "Download Zip")
-2. Extract the .zip Pack
-3. Copy the Extract Pack "@MdF_Rally" to (Steam: C:\Program Files (x86)\Steam\SteamApps\common\Arma 2 Operation Arrowhead)
-4. The folder name must "@MdF_Rally" and in the Folder: addons, mod.cpp, mod.paa
-5. Use the Program DZCLIP.exe in folder "DayZ Commander" for the Parameter in DayZ Commander
-(For manuel Parameter settings use this "-mod=@DayZ_Epoch;@MdF_Rally")
-
-Finish start the Mod whit DayZ Commander and have Fun!
 
 
 Developer´s:
